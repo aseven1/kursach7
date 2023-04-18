@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1.unity
+    guid: 2edc297c91de9054bb39ac07159a3777
+  - enabled: 1
+    path: Assets/Snake/Scenes/Snake.unity
+    guid: 020f026aba02b204f8675b9923683513
+  - enabled: 1
+    path: Assets/2.unity
+    guid: 006a739e822b143488faab95065aec90
+  - enabled: 1
+    path: Assets/Assets/level1.unity
+    guid: a1bcf8e2bfa7bf84aa69d69393aba97e
+  - enabled: 1
+    path: Assets/3.unity
+    guid: fe94e828ca9c8dd4a8a1042832b05c5b
+  m_configObjects: {}

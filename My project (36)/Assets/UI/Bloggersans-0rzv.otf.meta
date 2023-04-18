@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 0d17e41050ce52741b31a86a51b6c818
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Blogger Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 531165ca9d1f3914887faf20e9a2a8cd, type: 3}
+  - {fileID: 12800000, guid: 46df1d569494f3849b54420647e862b6, type: 3}
+  - {fileID: 12800000, guid: 9259c0eb9b7e5fc43b7e4cf1027b33eb, type: 3}
+  - {fileID: 12800000, guid: c7dba96585951e14d81b44003712fe59, type: 3}
+  - {fileID: 12800000, guid: e7b2f59410c8e994b8f9995729abf78e, type: 3}
+  - {fileID: 12800000, guid: c8f8b4757c2fc7b498ea92e4fd02a1bb, type: 3}
+  - {fileID: 12800000, guid: 235abf885d45ece4a9cd1c5c90a2f67a, type: 3}
+  - {fileID: 12800000, guid: 275025779bb5b014c9b8012c9be20024, type: 3}
+  - {fileID: 12800000, guid: e0b37489c1d7e5047b50516acf01828f, type: 3}
+  - {fileID: 12800000, guid: 16d62d453f8004e448cf714da4fe32df, type: 3}
+  - {fileID: 12800000, guid: 510c48c07ee5bf7458a2a124d12fd5fb, type: 3}
+  - {fileID: 12800000, guid: e1d43e1dae0f5fd4b8f43d0585494ddb, type: 3}
+  - {fileID: 12800000, guid: 5b791e2e7513fcc4dafcfd9693558e76, type: 3}
+  - {fileID: 12800000, guid: 18c0cf6765d710a4bb0abde5c9770ce7, type: 3}
+  - {fileID: 12800000, guid: 06cd875fd3f6d5345bf9e8ff39a6b79f, type: 3}
+  - {fileID: 12800000, guid: 75859ce0017ee794582ca5f5c87860f2, type: 3}
+  - {fileID: 12800000, guid: 1ad694d50ca023043acb3662bfe59f46, type: 3}
+  - {fileID: 12800000, guid: 0415ab27b4ea6f343adbb4be3b856e55, type: 3}
+  - {fileID: 12800000, guid: fc77af15272d14b4883596e93ed5a72d, type: 3}
+  - {fileID: 12800000, guid: 13a140de8de9a554098258a51205d21d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
